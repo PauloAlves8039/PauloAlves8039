@@ -8,9 +8,9 @@
 Sou Paulo Alves, Desenvolvedor Full Stack 👨‍💻 apaixonado por tecnologia em geral. 
 
 - 🔭 No momento Estou buscando uma recolocação do mercado de trabalho.
-- 🌱 Atualmente estou estudando DevOps, TDD, Google Cloud.
+- 🌱 Atualmente estou estudando DevOps, Docker, TDD, Google Cloud.
 - 💬 Sobre mim: adoro filmes, series, música(Rock) e estudar tecnologia da informação. 
--  ⚡ Tecnologias: Javascript, Angular, Node.Js, ASP.NET.
+-  ⚡ Tecnologias: Javascript, Angular, Node.Js, C#, ASP.NET, SQL.
 
 <!--
 **PauloAlves8039/PauloAlves8039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
