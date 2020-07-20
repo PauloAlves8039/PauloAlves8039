@@ -8,9 +8,9 @@
 
 Sou Paulo Alves, Desenvolvedor Full Stack e apaixonado por tecnologia em geral. 
 
-- 🔭 No momento Estou buscando uma recolocação do mercado de trabalho.
-- 🌱 Atualmente estou estudando DevOps, Docker, TDD, Google Cloud.
-- 💬 Sobre mim: adoro filmes, series, música(Rock) e estudar. 
+- 🔭 Atualmente estou buscando uma recolocação do mercado de trabalho.
+- 🌱 Atualmente estou estudando DevOps, Docker, TDD, Cloud Computing.
+- 💬 Pergunte-me sobre: filmes, series, música(Rock) e estudar. 
 -  ⚡ Tecnologias: Javascript, Angular, Node.Js, C#, ASP.NET, SQL.
 
 <!--
