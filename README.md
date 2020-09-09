@@ -11,7 +11,7 @@ I'm a Developer!
 
 - 🔭 I’m currently looking for job opportunities.
 - 🌱 I’m currently learning DevOps, Docker, TDD and Cloud Computing.
-- 💬 Ask me about: Javascript, Node.Js, C#, ASP.NET, Java, SQL.
+- 💬 Ask me about: Javascript, Angular, Node.Js, C#, ASP.NET Core, Java, SQL.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAlves8039&hide=html&layout=compact&theme=algolia" alt="PauloAlves8039" /> </p>
 
