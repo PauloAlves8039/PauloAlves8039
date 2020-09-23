@@ -13,7 +13,7 @@ I'm a Developer!
 - 🌱 I’m currently learning DevOps, Docker, TDD and Cloud Computing.
 - 💬 Ask me about: Javascript, Angular, Node.Js, C#, ASP.NET Core, Java, SQL.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAlves8039&hide=html&layout=compact&theme=algolia" alt="PauloAlves8039" /> </p>
+
 
 <!--
 **PauloAlves8039/PauloAlves8039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
