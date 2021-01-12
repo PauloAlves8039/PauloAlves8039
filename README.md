@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pj38alves@gmail.com)](mailto:pj38alves@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PauloJunior788)](https://twitter.com/PauloJunior788)
 
+<!--
 ## About me
 
 I'm a Developer!
@@ -12,7 +13,7 @@ I'm a Developer!
 - 🔭 I’m currently looking for job opportunities.
 - 🌱 I’m currently learning DevOps, Docker, TDD and Cloud Computing.
 - 💬 Ask me about: Javascript, Angular, Node.Js, C#, ASP.NET Core, Java, SQL.
-
+-->
 
 
 <!--
