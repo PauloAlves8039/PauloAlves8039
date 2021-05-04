@@ -15,8 +15,13 @@ I'm a Developer!
 - 💬 Ask me about: Javascript, Angular, Node.Js, C#, ASP.NET Core, Java, SQL.
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloAlves8039&show_icons=true&theme=tokyonight" alt="paulo-alves" />
+<p align="justify">
+  <a href="https://github.com/PauloAlves8039/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=PauloAlves8039&show_icons=true&theme=tokyonight" />
+  </a>
+   <a href="https://github.com/PauloAlves8039/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAlves8039&layout=compact&theme=tokyonight" />
+  </a>  
 </p>
 
 <!--
