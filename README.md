@@ -5,15 +5,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pj38alves@gmail.com)](mailto:pj38alves@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PauloJunior788)](https://twitter.com/PauloJunior788)
 
-<!--
 ## About me
 
-I'm a Developer!
+I'm a Full Stack Developer!
 
-- 🔭 I’m currently looking for job opportunities.
-- 🌱 I’m currently learning DevOps, Docker, TDD and Cloud Computing.
-- 💬 Ask me about: Javascript, Angular, Node.Js, C#, ASP.NET Core, Java, SQL.
--->
+- 🔭 I’m currently work as a Full Stack Developer.
+- 🌱 I’m currently learning TDD, Docker and Software Architecture.
+- 💬 Ask me about: C#, .NET, Javascript, Vue.Js, SQL.
 
 <p align="justify">
   <a href="https://github.com/PauloAlves8039/github-readme-stats">
@@ -23,6 +21,17 @@ I'm a Developer!
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAlves8039&layout=compact&theme=tokyonight" />
   </a>  
 </p>
+
+
+<!--
+## About me
+
+I'm a Developer!
+
+- 🔭 I’m currently looking for job opportunities.
+- 🌱 I’m currently learning DevOps, Docker, TDD and Cloud Computing.
+- 💬 Ask me about: Javascript, Angular, Node.Js, C#, ASP.NET Core, Java, SQL.
+-->
 
 <!--
 **PauloAlves8039/PauloAlves8039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
