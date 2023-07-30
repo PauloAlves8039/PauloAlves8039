@@ -10,8 +10,8 @@
 I'm a Full Stack Developer!
 
 - 🔭 I’m currently work as a Full Stack Developer.
-- 🌱 I’m currently learning TDD, Docker and Software Architecture.
-- 💬 Ask me about: C#, .NET, Javascript, Vue.Js, SQL.
+- 🌱 I’m currently learning TDD, Docker and Software Architecture(Clean Architecture).
+- 💬 Ask me about: C#, .NET, Javascript, Angular, Vue.Js, SQL.
 
 <p align="justify">
   <a href="https://github.com/PauloAlves8039/github-readme-stats">
