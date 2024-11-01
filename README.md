@@ -3,7 +3,7 @@
 ## About me
 
 - 🔭 I'm passionate about technology.
-- 🌱 I’m currently learning TDD, .NET MAUI with Software Architecture(Microservices).
+- 🌱 I'm currently studying software architecture and agile methodologies.
 
 ## Skills
 
